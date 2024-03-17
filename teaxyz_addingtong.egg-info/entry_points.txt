@@ -1,0 +1,2 @@
+[console_scripts]
+hello-tea = hello_tea:hello_tea_func
